@@ -1,6 +1,6 @@
 import soundConsumer from "./index";
 
-// # not working
+// # working with babel configuration
 jest.mock("./sound-player", () => {
     return jest.fn().mockImplementation(() => {
             return {
