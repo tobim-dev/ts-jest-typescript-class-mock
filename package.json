@@ -1,7 +1,7 @@
 {
   "name": "jest-typescript-class-mock",
   "version": "0.0.1",
-  "description": "Just an example to validate ES6 Class Mocks with TypeScript",
+  "description": "Just an example to validate ES6 Class Mocks with TypeScript and ts-jest",
   "main": "index.ts",
   "scripts": {
     "start": "npm run build && node dist/index.js",
